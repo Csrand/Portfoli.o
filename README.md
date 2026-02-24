@@ -389,15 +389,6 @@ MIT License - veja [LICENSE](LICENSE) para detalhes.
 
 ---
 
-## 📞 Contato
-
-**Desenvolvedor Responsável:** [Seu Nome]  
-**Email:** [seu.email@email.com]  
-**LinkedIn:** [linkedin.com/in/seu-perfil]  
-**Repositório:** [github.com/seuusuario/service-order-system](https://github.com/seuusuario/service-order-system)
-
----
-
 ## 🙏 Agradecimentos
 
 - D.A Aviação pelo desafio e confiança
