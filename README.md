@@ -403,7 +403,3 @@ MIT License - veja [LICENSE](LICENSE) para detalhes.
 - D.A Aviação pelo desafio e confiança
 - Comunidade open-source pelas ferramentas utilizadas
 - Mentores e colegas pelo apoio no desenvolvimento
-
-
-
-[⬆ Voltar ao topo](#-sistema-de-ordem-de-serviço--calendário-colaborativo)
